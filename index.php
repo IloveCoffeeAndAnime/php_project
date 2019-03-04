@@ -1,4 +1,5 @@
-<?php 
+<?php
+require('vendor/autoload.php');
 $user = (object) [
     'name' => 'Jane Doe',
     'email' => 'janedoe@gmail.com',

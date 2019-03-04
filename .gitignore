@@ -1,0 +1,5 @@
+vendor/
+.env
+app/node_modules/
+app/assets/bundle/
+app/assets/css/
